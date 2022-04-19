@@ -5,7 +5,7 @@ esta foi a minha logica implementada ao projeto espero que gostem.
 
 PS: lembre-se rode o código, leia ele. Entenda e crie sua lógica por cima só assim você pode aprender. 
 
-projeto Hospedado: 
+projeto Hospedado: https://kriptonball.netlify.app/
 
 Para este site eu ultilizei de base as Colisões desse:https://github.com/cryswerton/dinosaur-game-youtube (Os codigos são 100% meus)
 
